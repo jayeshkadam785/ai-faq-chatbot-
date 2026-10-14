@@ -22,5 +22,45 @@
   {
     "question": "What payment methods do you accept?",
     "answer": "We accept credit cards, debit cards, UPI, net banking and popular digital wallets."
+  },
+  {
+    "question": "Hello",
+    "answer": "Hello! Welcome. How can I help you today?"
+  },
+  {
+    "question": "Hi there, good morning",
+    "answer": "Good morning! I'm happy to help. What would you like to know?"
+  },
+  {
+    "question": "How are you?",
+    "answer": "I'm doing well, thank you for asking! How can I help you today?"
+  },
+  {
+    "question": "Who are you?",
+    "answer": "I'm the support assistant for this website. I can help with orders, refunds, payments and account questions."
+  },
+  {
+    "question": "What can you do?",
+    "answer": "I can answer questions about working hours, password reset, refunds, order tracking, contacting support and payment methods."
+  },
+  {
+    "question": "Thank you",
+    "answer": "You're welcome! Is there anything else I can help you with?"
+  },
+  {
+    "question": "Thanks, that helps",
+    "answer": "Glad I could help! Feel free to ask if you have any other questions."
+  },
+  {
+    "question": "Bye",
+    "answer": "Goodbye! Have a great day."
+  },
+  {
+    "question": "Good night",
+    "answer": "Good night! Take care, and feel free to come back anytime."
+  },
+  {
+    "question": "Tell me a joke",
+    "answer": "Why did the customer bring a ladder to the store? Because they heard the prices were sky high!"
   }
 ]
