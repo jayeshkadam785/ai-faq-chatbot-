@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What are your working hours?",
+    "answer": "We are open Monday to Friday, 9 AM to 6 PM. Our support team is available by email at any time."
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "Click 'Forgot password' on the login page and follow the link sent to your registered email address."
+  },
+  {
+    "question": "Do you offer refunds?",
+    "answer": "Yes. You can request a full refund within 30 days of purchase, as long as the product is unused."
+  },
+  {
+    "question": "How do I track my order?",
+    "answer": "Log in to your account and open 'My Orders'. You will find the tracking number and current delivery status there."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can reach our support team by email, or use the live chat on this page during working hours."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit cards, debit cards, UPI, net banking and popular digital wallets."
+  }
+]
